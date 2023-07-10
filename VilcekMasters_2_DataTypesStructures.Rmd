@@ -26,7 +26,7 @@ Students will be able to:
 ## Pulling in the data
 
 ```{r}
-nyc <- read.csv("https://raw.githubusercontent.com/fredlapolla/RVilcekMasters23/main/NYC_HANES_DIAB.csv")
+nyc <- read.csv("https://raw.githubusercontent.com/fredlapolla/RVilcekMaster23/main/NYC_HANES_DIAB.csv")
 ```
 
 
