@@ -288,11 +288,7 @@ class(nyc)
 
 ***
 
-## Break out group Let's explore some data
 
-Find a dataset and read it in. If you do not have one, an easy option might be last week's NYC HANES data.
-
-*** 
 
 ## How to tell what kind of data you are working with
 
