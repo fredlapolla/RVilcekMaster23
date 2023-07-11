@@ -12,10 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 # Videos 2023
 
 Session 1: July 6, 2023
-<a href="https://nyulangone.zoom.us/rec/share/omn8QwzgCoTU65J712Tix5bey--LDLpmKnMjwEU0H8gxj4Er08sqED-dJyqpc9zF.uSGaB2cDxrtMP7A7">target="_blank">Video 1</a>
+<a href="https://nyulangone.zoom.us/rec/share/omn8QwzgCoTU65J712Tix5bey--LDLpmKnMjwEU0H8gxj4Er08sqED-dJyqpc9zF.uSGaB2cDxrtMP7A7">Video 1</a>
 Syllabus, beginning of R
 
 
 Session 2: July 10, 2023
-<a href="https://nyulangone.zoom.us/rec/share/fkSr0sne1Q5no4fXENlYljsgFI6ZlXnNqyn8BoXTWKbfmApZLCrVqGdCtyUj6wnY.aI3PpKZX5A7Oy2b8"">target="_blank">Video 2</a> 
+<a href="https://nyulangone.zoom.us/rec/share/fkSr0sne1Q5no4fXENlYljsgFI6ZlXnNqyn8BoXTWKbfmApZLCrVqGdCtyUj6wnY.aI3PpKZX5A7Oy2b8">Video 2</a> 
+
 R Environment, scripting vs console, reading in data
