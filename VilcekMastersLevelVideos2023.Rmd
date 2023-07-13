@@ -20,3 +20,8 @@ Session 2: July 10, 2023
 <a href="https://nyulangone.zoom.us/rec/share/fkSr0sne1Q5no4fXENlYljsgFI6ZlXnNqyn8BoXTWKbfmApZLCrVqGdCtyUj6wnY.aI3PpKZX5A7Oy2b8">Video 2</a> 
 
 R Environment, scripting vs console, reading in data
+
+Session 3: July 13, 2023
+
+https://nyulangone.zoom.us/rec/share/V2LuRWAVGWwnzYpjHtMqoZyjfLnJ2mJCVvALbh96xf-vEQj4kbDhaOM-fiw4wuoW.MsvGYoMyl_TI2pMP
+Data types and structures
