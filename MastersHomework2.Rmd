@@ -113,7 +113,7 @@ WannaMatrix <- as.matrix(WannaMatrix,nrow = 6, ncol = 4)
 ```
 
 
->- Subset to only have females (gender == "Female")
+>- Subset to only have females (gender == "female")
 
 ```{r}
 
