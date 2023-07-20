@@ -25,3 +25,11 @@ Session 3: July 13, 2023
 
 https://nyulangone.zoom.us/rec/share/V2LuRWAVGWwnzYpjHtMqoZyjfLnJ2mJCVvALbh96xf-vEQj4kbDhaOM-fiw4wuoW.MsvGYoMyl_TI2pMP
 Data types and structures
+
+Session 4: July 17, 2023
+https://nyulangone.zoom.us/rec/share/vgUCxiLD2J6G8voiCsWWSETr0n3IquicWhVaPYAUatvTQPkJFj8A2KfgeCD6RfWt.iJg9BISYgecwwthb
+Functions and For Loops
+
+Session 5: July 20, 2023
+https://nyulangone.zoom.us/rec/share/RaKxF8ZqwHt5F9IAmM44yXm89aaUN_Y95XkqvfCY2qpRgI44JdvGv5iT6hzOTjKE.rvkVQhVRpL_LEG4q
+Ifelse, Data Cleaning
