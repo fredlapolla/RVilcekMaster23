@@ -33,3 +33,7 @@ Functions and For Loops
 Session 5: July 20, 2023
 https://nyulangone.zoom.us/rec/share/RaKxF8ZqwHt5F9IAmM44yXm89aaUN_Y95XkqvfCY2qpRgI44JdvGv5iT6hzOTjKE.rvkVQhVRpL_LEG4q
 Ifelse, Data Cleaning
+
+Session 6: July 24, 2023
+https://nyulangone.zoom.us/rec/share/OKpPDKgwd4HYa3I22qnmPIOPk8agKErxlz4EMObNnx2p5d6rTY9H3iyWehtuMS27.0XadTmRl81LQE1XP
+Data Cleaning, Data Visualization
