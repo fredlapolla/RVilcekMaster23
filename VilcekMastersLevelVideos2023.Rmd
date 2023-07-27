@@ -37,3 +37,7 @@ Ifelse, Data Cleaning
 Session 6: July 24, 2023
 https://nyulangone.zoom.us/rec/share/OKpPDKgwd4HYa3I22qnmPIOPk8agKErxlz4EMObNnx2p5d6rTY9H3iyWehtuMS27.0XadTmRl81LQE1XP
 Data Cleaning, Data Visualization
+
+Session 7: July 27, 2023
+https://nyulangone.zoom.us/rec/share/wUZpmsq2WPeSm85qAj2rQx0WFyod658WHd0lAphPFSkzXnFSKMpM8lOQDJ5NpMMC.IzJLyMR6oxxNzVMc
+Bioinformatics Visualization
