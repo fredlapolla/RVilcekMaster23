@@ -41,3 +41,7 @@ Data Cleaning, Data Visualization
 Session 7: July 27, 2023
 https://nyulangone.zoom.us/rec/share/wUZpmsq2WPeSm85qAj2rQx0WFyod658WHd0lAphPFSkzXnFSKMpM8lOQDJ5NpMMC.IzJLyMR6oxxNzVMc
 Bioinformatics Visualization
+
+Session 8: July 31, 2023
+https://nyulangone.zoom.us/rec/share/021q-8nW1hwTrdsYaZd4HsQLlF3T9FtA6CyX8K7B0YxNuKIezxxchry0BHfnJSrJ.LNZwHL3STt2kTnqC
+Data Visualization with GGPlot2
