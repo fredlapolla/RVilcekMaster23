@@ -45,3 +45,7 @@ Bioinformatics Visualization
 Session 8: July 31, 2023
 https://nyulangone.zoom.us/rec/share/021q-8nW1hwTrdsYaZd4HsQLlF3T9FtA6CyX8K7B0YxNuKIezxxchry0BHfnJSrJ.LNZwHL3STt2kTnqC
 Data Visualization with GGPlot2
+
+Session 9: August 3, 2023
+https://nyulangone.zoom.us/rec/share/sbZlzjh4bPsotO8vTmIEgomGhX4XJ5e1sAaexHJyAHBazFa_6cvlm4OhypVpKjEI.RJHWI8cn0_G5rKBJ
+Hypothesis Tests
